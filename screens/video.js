@@ -13,7 +13,7 @@ const ProfileScreen = () => {
   const MyCustomShare = async () => {
     const shareOptions = {
       message:
-        'Are you not feeling well because of Mental stress? Then try this new Amazing App which cares you...!!!.\n',
+        'Are you not feeling well because of Mental stress? Then try this new Amazing App which cares you..!!!.\n',
         url: 'https://play.google.com/store/apps/details?id=in.swiggy.android',
     };
 
